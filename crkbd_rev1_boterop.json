@@ -51,7 +51,7 @@
       "KC_LALT"
     ],
     [
-      "KC_NO",
+      "KC_TAB",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -67,7 +67,7 @@
       "LCTL(KC_Y)",
       "KC_LSFT",
       "KC_LALT",
-      "KC_LGUI",
+      "KC_TAB",
       "KC_NO",
       "KC_NO",
       "KC_LEFT",
