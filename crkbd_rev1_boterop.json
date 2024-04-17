@@ -79,7 +79,7 @@
       "LCTL(KC_Z)",
       "LCTL(KC_X)",
       "LCTL(KC_C)",
-      "LCTL(KC_V)",
+      "LCTL(LSFT(KC_V))",
       "KC_VOLD",
       "KC_VOLU",
       "KC_MRWD",
