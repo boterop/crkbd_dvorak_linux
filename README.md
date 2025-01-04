@@ -54,3 +54,7 @@ Now it is time to install it, you can follow the same tutorial from [Setup](#set
 ### ADJUST
 
 ![alt text](images/layers/4.png)
+
+### MOUSE
+
+![alt text](images/layers/5.png)
